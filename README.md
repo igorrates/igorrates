@@ -27,8 +27,5 @@ You can find me at 👇
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/igorrates/igorrates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrates&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/igorrates/igorrates">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorrates&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Igor Rates GitHub Stats" />
 </a>   
