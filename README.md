@@ -19,6 +19,19 @@ You can find me at 👇
 - [Rock Content: Senior Full Stack Developer](https://rockcontent.com) 💼 
 - [Open World: Freelance](https://igorrates.com) 🌎
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/.NET-informational?style=flat&logo=.net&color=gray)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&color=gray)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=gray)
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&color=gray)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=gray)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&color=gray)
+![](https://img.shields.io/badge/Sql%20Server-informational?style=flat&logo=microsoft-sql-server&color=gray)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=gray)
+![](https://img.shields.io/badge/Amazon%20AWS-informational?style=flat&logo=amazon-aws&color=gray)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=gray)
+![](https://img.shields.io/badge/Kubernets-informational?style=flat&logo=kubernets&color=gray)
+
 <!--
 ### 💻 What i am currently/done working on
 - [Ion Interactive](https://ion.rockcontent.com/)
