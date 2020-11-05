@@ -30,7 +30,7 @@ You can find me at 👇
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=gray)
 ![](https://img.shields.io/badge/Amazon%20AWS-informational?style=flat&logo=amazon-aws&color=gray)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=gray)
-![](https://img.shields.io/badge/Kubernets-informational?style=flat&logo=kubernets&color=gray)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&color=gray)
 
 <!--
 ### 💻 What i am currently/done working on
