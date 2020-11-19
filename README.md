@@ -17,7 +17,7 @@ You can find me at 👇
 
 ### 💼 Where i am currently working at/as
 - [Rock Content: Senior Full Stack Developer](https://rockcontent.com) 💼 
-- [Open World: Freelance](https://igorrates.com) 🌎
+- [Open World: Freelance](https://ratesoffice.com) 🌎
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=.net&color=gray)
