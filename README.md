@@ -1,6 +1,6 @@
 ### Hey folks 👋
 
-My name is Igor Rates and I'm a software engineer from Brazil currently working at Rock Content 🚀. 
+My name is Igor Rates and I'm a software engineer from Brazil currently working at Corebridge 🚀. 
 Also a Microsoft Certified Solutions Developer 🤓
 
 Microsoft Certified Solutions Developer
