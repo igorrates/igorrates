@@ -1,15 +1,14 @@
 ### Hey folks 👋
 
 My name is Igor Rates and I'm a software engineer from Brazil currently working at Corebridge 🚀. 
-Also a Microsoft Certified Solutions Developer 🤓
 
-Microsoft Certified Solutions Developer
+Also a Microsoft Certified Solutions Developer 🤓
 
 Always excited to work on new challenges. I’ve been working for over 10 years with web development and there’s not a single day I get bored because it is what I love to do.
 
 - 🔭 I’m currently working as a full-stack on a SaaS project having Angular as front-end and .NET core in the backend. The backend is distributed into several micro-services
 
-- 🏫 Learning NodeJS, ReactJS, and React-Native with the guys at RocketSeat. So far loving the bootcamp.
+- 🏫 NodeJS, ReactJS, and React-Native are my go to on personal projects.
 
 You can find me at 👇
 <p>
