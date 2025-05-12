@@ -12,8 +12,6 @@ Always excited to work on new challenges. I’ve been working for over 10 years 
 
 You can find me at 👇
 <p>
-<a href="https://twitter.com/igorrates"><img height="30" src="https://github.com/igorrates/igorrates/blob/main/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/igorates"><img height="30" src="https://github.com/igorrates/igorrates/blob/main/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/igorrates/"><img height="30" src="https://github.com/igorrates/igorrates/blob/main/linkedin.png"></a>
 </p>
 
