@@ -1,46 +1,52 @@
-### Hey folks 👋
+# Hey folks 👋
 
-My name is Igor Rates and I'm a software engineer from Brazil currently working at Corebridge 🚀. 
+I'm **Igor Rates**, a Senior Lead Engineer from Brazil building AI-powered enterprise platforms at [CoreBridge](https://corebridge.net).
 
-Also a Microsoft Certified Solutions Developer 🤓
+Microsoft Certified Solutions Developer (MCSD) with 10+ years shipping production software — from WinForms in the early days to modern reactive architectures with Angular 17 and .NET 8.
 
-Always excited to work on new challenges. I’ve been working for over 10 years with web development and there’s not a single day I get bored because it is what I love to do.
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working as a full-stack on a SaaS project having Angular as front-end and .NET core in the backend. The backend is distributed into several micro-services
+- **At CoreBridge:** Leading development on a multi-tenant SaaS platform serving 55+ countries. Recently shipped an AI-powered assistant feature end-to-end and led infrastructure migrations touching 40+ components.
+- **Side Project:** [DishAI](https://github.com/igorrates/dishai) — A React Native mobile app (Expo + Firebase) that generates grocery lists from meal plans using AI. Currently in App Store review.
 
-- 🏫 NodeJS, ReactJS, and React-Native are my go to on personal projects.
+## 🔧 Tech Stack
 
-You can find me at 👇
-<p>
-<a href="https://www.linkedin.com/in/igorrates/"><img height="30" src="https://github.com/igorrates/igorrates/blob/main/linkedin.png"></a>
-</p>
+**Daily Drivers**
 
-### 💼 Where i am currently working at/as
-- [CoreBridge: Full Stack Developer](https://corebridge.net) 💼 
-- Open World: Freelance 🌎
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat&logo=ngrx&logoColor=white)
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/.NET-informational?style=flat&logo=.net&color=gray)
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&color=gray)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=gray)
-![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&color=gray)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=gray)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&color=gray)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&color=gray)
-![](https://img.shields.io/badge/Sql%20Server-informational?style=flat&logo=microsoft-sql-server&color=gray)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=gray)
-![](https://img.shields.io/badge/Amazon%20AWS-informational?style=flat&logo=amazon-aws&color=gray)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=gray)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&color=gray)
+**Infrastructure & Data**
 
-<!--
-### 💻 What i am currently/done working on
-- [Ion Interactive](https://ion.rockcontent.com/)
-- [Personal WebSite](https://igorrates.com)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+**Also Comfortable With**
 
-<a href="https://github.com/igorrates/igorrates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorrates&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Igor Rates GitHub Stats" />
-</a>  
--->
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+## 📊 What I Actually Do
+
+- **Architecture & Infrastructure** — Building shared services, libraries, and platform foundations other engineers depend on
+- **AI Integration** — Shipping AI features in production (chat interfaces, voice mode, payment processing)
+- **Complex State Management** — NgRx, Angular Signals, RxJS pipelines, autosave flows
+- **Refactoring at Scale** — Modernizing legacy patterns across 40+ components without breaking things
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorrates/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:igor@ratesoffice.com)
+
+---
+
+*Based in Brazil 🇧🇷 • Working remotely with US teams
